@@ -17,6 +17,7 @@
 
 顶点动画：流动的河流
 
-![Chapter11_Billboard](E:\UnityProjects\ShaderBook\ScreenShots\Chapter11_Billboard.png)
+![Chapter11_Billboard](ScreenShots/Chapter11_Billboard.png)
 
 广告牌（Billboard）
+
